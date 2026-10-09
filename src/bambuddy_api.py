@@ -29,3 +29,5 @@ def fetch_spool(number, api_key, server):
     if not isinstance(data, list):
         raise ValueError('BamBuddy hat keine Spulenliste geliefert.')
     return next((s for s in data if str(s.get('id')) == str(number)), None)
+
+

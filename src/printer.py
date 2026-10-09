@@ -8,3 +8,5 @@ def print_label(image):
     finally:
         if printer is not None:
             printer.disconnect()
+
+
