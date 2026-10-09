@@ -1,0 +1,17 @@
+# Python / PyInstaller
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+*.spec
+*.zip
+
+# Local configuration and secrets
+.env
+.env.*
+*.log
+settings.json
+einstellungen.json
+config.local.json
