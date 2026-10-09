@@ -1,0 +1,7 @@
+bleak==3.0.2
+keyring==25.7.0
+niimbot-b1 @ git+https://github.com/gokhanarel/NiimBLE.git@4cbc132de88ac0d940da5321ae2fc78f2b0eb5a5
+pillow==12.3.0
+qrcode==8.2
+requests==2.34.2
+pyinstaller==6.22.3
