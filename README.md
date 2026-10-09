@@ -20,7 +20,7 @@
 - Getestetes Etikettenformat: **40 × 30 mm**
 
 ### Status
-Die Veröffentlichung des vollständigen Quellcodes und einer portablen Windows-Version **v1.0.0** wird vorbereitet. Vor der Bereitstellung der EXE werden die Lizenzhinweise aller mitgelieferten Drittanbieterkomponenten geprüft.
+**v1.0.0 ist veröffentlicht!** Die portable Windows-Version steht unter [Releases](https://github.com/superdschin/BamBuddy-Label-Printer/releases/tag/v1.0.0) zum Download bereit. ZIP entpacken und `BamBuddy-Label-Printer.exe` starten; Python muss nicht installiert werden. Lizenzhinweise zu Drittanbieterkomponenten sind im Download enthalten.
 
 ## English
 
@@ -40,7 +40,7 @@ Die Veröffentlichung des vollständigen Quellcodes und einer portablen Windows-
 - Tested label size: **40 × 30 mm**
 
 ### Status
-Source code and a portable Windows **v1.0.0** release are being prepared. License notices for bundled third-party components will be reviewed before publishing the executable.
+**v1.0.0 is available!** Download the portable Windows version from [Releases](https://github.com/superdschin/BamBuddy-Label-Printer/releases/tag/v1.0.0). Extract the ZIP and run `BamBuddy-Label-Printer.exe`; no Python installation is required. Third-party license notices are included in the download.
 
 ## License and acknowledgements
 
